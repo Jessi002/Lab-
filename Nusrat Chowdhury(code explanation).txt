@@ -1,0 +1,9 @@
+1. print('Nusrat Chowdhury')
+print('*' * 20)
+
+Explanation:  here we can print anything whatever we want after putting them in between parenthesis . also we cant print numbers.
+
+2. ai_box ='something' 
+print (ai_box)
+
+Explanation: here we don't need to mention the data type. With that we can print easily. Can put the variable and print .

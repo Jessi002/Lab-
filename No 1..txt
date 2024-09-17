@@ -1,0 +1,151 @@
+No 1.
+print('Nusrat Chowdhury')
+
+print("*" * 20)
+
+Outputs:
+Nusrat Chowdhury
+
+No 2. 
+
+age = 45
+
+salary = 1456.8
+
+name = "John"
+
+print(age)
+print(salary)
+print(name)
+
+output: 45
+1456.8
+John
+
+No 3. 
+ai_box ='something'
+print(ai_box)
+
+Output: something
+
+
+
+No 4.
+name =input("what is your name?")#nusrat
+address =input("where are you from?")#chittagong
+print(name+" lives in"+ address)
+
+Output: 
+what is your name? nusrat
+ where are you from? Chittagong
+Nusrat lives in chittagong
+
+
+
+No 5. 
+
+Celsius = input('Temperature in Celsius')
+Celsius=int(Celsius)
+ 
+fahrenheit = (celsius *( 9/5 )) + 32
+ 
+print(Fahrenheit)
+
+output:29.00 Celsius is equivalent to: 84.20 Fahrenheit
+ 
+
+No 5
+course_name = 'learn python programming'
+print(course_name)
+print(course_name[1]) #will print "e"
+print(course_name[1:-1]) 
+output:
+1.learn python programming
+2.e
+3.earn python programmin
+
+
+No 6.
+a = 33
+b = 200
+if b > a:
+  print("b is greater than a")
+
+output: b is greater than a
+
+No 2.
+
+i = 1
+while i < 6:
+  print(i)
+  if i == 3:
+    break
+  i += 1
+
+output:
+1
+2
+3
+ 
+No 3. 
+
+fruits = ["apple", "banana", "cherry"]
+for x in fruits:
+  if x == "banana":
+    break
+print(x)
+  
+
+output:banana
+
+No 4.
+thisdict = {
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
+print(thisdict)
+   
+
+output: {'brand': 'Ford', 'model': 'Mustang', 'year': 1964}
+
+
+
+No 6. 
+List = ['Mathematics', 'chemistry', 1997, 2000]
+List.append(20544)
+print(List)
+
+output:['Mathematics', 'chemistry', 1997, 2000, 20544]
+
+No 7
+
+name = "ustc"
+print(name) 
+
+output:ustc
+
+No 8.
+
+age = 45
+
+salary = 1456.8
+
+name = "John"
+
+print(age)
+print(salary)
+print(name)
+
+output: 45
+1456.8
+John
+
+
+
+No 9.
+
+val = input("I am a student")
+print(val) 
+
+output:I am a student
